@@ -1,2 +1,4 @@
 # Writeup
-Writeup for CTF or something...
+It would be updated soon..🥲
+
+https://gist.github.com/03sunf/
